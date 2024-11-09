@@ -196,6 +196,9 @@ collections:
   portfolio:
     output: true
     permalink: /:collection/:path/
+  films:
+    output: true
+    permalink: /:collection/:path/
 
 
 # Defaults
@@ -256,6 +259,15 @@ defaults:
       layout: single
       author_profile: false
       share: true
+  # _films
+  - scope:
+      path: ""
+      type: films
+    values:
+      layout: single
+      author_profile: false
+      comments: true
+      related: true  
 
 
 # Sass/SCSS
