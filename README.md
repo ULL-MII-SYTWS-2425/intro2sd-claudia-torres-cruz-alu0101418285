@@ -148,3 +148,10 @@ Para automatizar la presentación de películas en función de su disponibilidad
   {% endif %}
 {% endfor %}
 ```
+
+## Página 404 personalizada
+Se ha creado una página 404 personalizada que muestra un mensaje de error y un personaje aleatorio de Dragon Ball con una breve descripción usando la API de `https://web.dragonball-api.com/` cuando el usuario navegue a una URL incorrecta. 
+
+Se encuentra dentro de la carpeta _pages `404.md` .
+
+![Preview 404](./assets/images/404.jpg)
