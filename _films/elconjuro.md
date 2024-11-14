@@ -3,17 +3,22 @@ title: "El Conjuro: Terror y Realidad"
 date: 2024-11-14
 categories: [reviews, terror]
 excerpt: "Un análisis de 'El Conjuro', una película de terror que se basa en hechos reales, que mezcla el miedo con el suspenso."
-image: "../assets/images/the-conjuring-poster.jpg"
+image: "../../assets/images/the-conjuring-poster.jpg"
 rating: 8.5
 ---
 
-<div style="text-align: center; margin-top: 20px;">
-  <img src="{{ page.image }}" alt="Poster de El Conjuro" style="width: 60%; border-radius: 8px; box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2);">
+<div style="display: flex; align-items: center; margin-top: 20px;">
+  <img src="{{ page.image }}" alt="Poster de El Conjuro" style="height: 250px; border-radius: 8px; box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2); margin-right: 20px;">
+  
+  <div>
+    <h1 style="font-size: 1.2em; color: #333;">🎬 El Conjuro (2013)</h1>
+    <blockquote style="margin: 0; font-size: 1rem; color: #555;">
+      <strong>Calificación:</strong> ⭐️ <strong>{{ page.rating }}/10</strong>
+    </blockquote>
+  </div>
 </div>
 
-# 🎬 **El Conjuro (2013)**
-
-> **Calificación**: ⭐️ **{{ page.rating }}/10**
+<br/>
 
 **"El Conjuro"**, dirigida por **James Wan**, es una de las películas más destacadas del cine de terror contemporáneo. Basada en hechos reales, sigue a los investigadores paranormales **Ed y Lorraine Warren** mientras intentan salvar a una familia de un mal sobrenatural. La atmósfera oscura y los giros inesperados se combinan a la perfección, logrando un equilibrio entre el suspenso y el terror psicológico.
 
