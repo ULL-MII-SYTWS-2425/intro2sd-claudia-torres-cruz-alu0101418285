@@ -3,16 +3,22 @@ title: "Inception: Un Viaje a la Mente"
 date: 2024-11-14
 categories: [reviews, ciencia ficción]
 excerpt: "Una crítica de 'Inception', donde Christopher Nolan nos lleva a un viaje entre sueños y realidades, explorando la mente humana."
-image: "../assets/images/inception-poster.jpg"
+image: "../../assets/images/inception-poster.jpg"
 rating: 9.0
 ---
-<div style="text-align: center; margin-top: 20px;">
-  <img src="{{ page.image }}" alt="Poster de Inception" style="width: 60%; border-radius: 8px; box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2);">
+
+<div style="display: flex; align-items: center; margin-top: 20px;">
+  <img src="{{ page.image }}" alt="Poster de El Conjuro" style="height: 250px; border-radius: 8px; box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2); margin-right: 20px;">
+  
+  <div>
+    <h1 style="font-size: 1.2em; color: #333;">🎬 Inception (2010)</h1>
+    <blockquote style="margin: 0; font-size: 1rem; color: #555;">
+      <strong>Calificación:</strong> ⭐️ <strong>{{ page.rating }}/10</strong>
+    </blockquote>
+  </div>
 </div>
 
-# 🎬 **Inception (2010)**
-
-> **Calificación**: ⭐️ **{{ page.rating }}/10**
+<br/>
 
 **"Inception"**, dirigida por **Christopher Nolan**, es una de las películas más innovadoras y complejas de la última década. La trama sigue a Dom Cobb (Leonardo DiCaprio), un experto en 'inception' (la habilidad de implantar ideas en los sueños) mientras lleva a cabo un atraco en los sueños de una persona. A medida que la trama avanza, el espectador se ve atrapado en un juego de capas de sueños y realidades, creando una experiencia que desafía la lógica y la percepción.
 
