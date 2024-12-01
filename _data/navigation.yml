@@ -24,6 +24,8 @@ main:
     url: /year-archive/
   - title: "Mis Colecciones"
     url: /collection-archive/
+  - title: "Buscar"
+    url: /search/
 
 
 # sidebar navigation list sample
