@@ -75,18 +75,5 @@
 4. **Resumen del Capítulo 2**  
    El resumen del capítulo se encuentra en un post dentro del sitio `_posts/2024-12-01-resumencapitulo2.md`, donde se explican los tipos de ciclos de vida de los sistemas (SDLC), sus características y las metodologías ágiles.
 
-## Resultados Esperados
-
-- El usuario puede realizar búsquedas dinámicas en el sitio web, que muestran los resultados a medida que se escribe.
-- Los resultados incluyen un enlace a las páginas o posts que contienen la expresión buscada y una descripción con los primeros caracteres del contenido.
-- El resumen del Capítulo 2 del libro *Developing Information Systems* se muestra en un post dentro del sitio.
-
-## Instalación y Ejecución
-
-1. **Clonación del Repositorio:**
-
-   Clona el repositorio con el siguiente comando:
-
-   ```bash
-   git clone <url-del-repositorio>
-   cd <nombre-del-repositorio>
+## Conclusión
+La práctica consistió en la implementación de un sistema de búsqueda personalizado en Jekyll que permite a los usuarios buscar contenido en el sitio web. Se añadió en la barra de navegación una nueva opción `Buscar` para utilizarlo.
