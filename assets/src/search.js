@@ -41,7 +41,7 @@ class JekyllSearch {
       })
       .join("");
     if (results.length == 0 || this.searchField.value == "") {
-      this.resultsList.innerHTML = `<p>Sorry, nothing was found</p>`;
+      this.resultsList.innerHTML = `<p>Lo siento, no se encontró nada</p>`;
     } else {
       this.resultsList.innerHTML = html;
     }

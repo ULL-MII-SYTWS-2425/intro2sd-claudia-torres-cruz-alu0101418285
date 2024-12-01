@@ -1,12 +1,9 @@
 ---
-layout: default
 permalink: /search/
 title: Buscar
 ---
 
 {% capture initSearch %}
-
-<h1>Buscar</h1>
 
 <form id="search-form">
   <label for="search">Buscar término (se aceptan regex):</label>
@@ -27,7 +24,7 @@ title: Buscar
     search.init();
 </script>
 
-<noscript>Please enable JavaScript to use the search form.</noscript>
+<noscript>Por favor permite JS para que el formulario funcione.</noscript>
 
 {% endcapture %}
 
